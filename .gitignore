@@ -1,6 +1,9 @@
+bin
 lib
+share
 
 .env
+*service_account.json
 
 .idea
 .vscode
