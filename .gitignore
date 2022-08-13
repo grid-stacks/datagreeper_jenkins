@@ -1,4 +1,6 @@
 lib
 
+.env
+
 .idea
 .vscode
